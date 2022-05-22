@@ -1,5 +1,6 @@
 package com.donkey.book.springboot.web;
 
+import com.donkey.book.springboot.web.HelloController;
 import org.hamcrest.Matchers;
 import org.junit.Test;
 import org.junit.runner.RunWith;
